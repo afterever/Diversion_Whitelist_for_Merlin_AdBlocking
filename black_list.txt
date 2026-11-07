@@ -16,3 +16,8 @@
 192.168.1.2 fandom.com
 192.168.1.2 youtube.com
 192.168.1.2 www.youtube.com
+192.168.1.2 youtu.be
+192.168.1.2 youtube-nocookie.com
+192.168.1.2 youtubei.googleapis.com
+192.168.1.2 googlevideo.com
+192.168.1.2 ytimg.com
