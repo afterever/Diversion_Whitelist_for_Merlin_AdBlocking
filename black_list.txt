@@ -1,3 +1,4 @@
+# https://raw.githubusercontent.com/afterever/Diversion_Whitelist_for_Merlin_AdBlocking/main/black_list.txt
 192.168.1.2 poki.com
 192.168.1.2 www.poki.com
 192.168.1.2 pokii.com
