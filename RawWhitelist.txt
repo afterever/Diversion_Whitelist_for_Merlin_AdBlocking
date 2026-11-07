@@ -1,6 +1,8 @@
 # Contributed by PracticalChip
 # Project home page https://github.com/PracticalChip/Adblocking
 
+# https://raw.githubusercontent.com/afterever/Diversion_Whitelist_for_Merlin_AdBlocking/main/RawWhitelist.txt
+
 # afterever added since December 2020
 # most these are shopping sites
 www.ojrq.net
@@ -28,6 +30,10 @@ control.kochava.com
 # Paramount Plus 09.29.2024
 googleadservices.com
 www.googleadservices.com
+
+# s.youtube.com
+s.ytimg.com
+# s2.youtube.com
 
 # This was added at the request of the developer of Diversion
 steamcdn-a.akamaihd.net
@@ -712,14 +718,11 @@ s.symcd.com
 s.w-x.co
 s.w.org
 s.yimg.com
-s.youtube.com
-s.ytimg.com
 s.zkcdn.net
 s0.wp.com
 s1.symcb.com
 s1.wp.com
 s2.symcb.com
-s2.youtube.com
 s2k7tnzlhrpw.statuspage.io
 s3-ap-southeast-1.amazonaws.com
 s3-eu-west-1.amazonaws.com
